@@ -28,6 +28,17 @@ El codigo puede mejorar de varias maneras este solo es un ejemplo de forma didac
 
 ![ejecutar_npm](https://user-images.githubusercontent.com/33810066/227340609-fe5363bd-68e1-4ee6-af96-0ddb9f586c53.png)
 
+-php artisan serve
+
+![ejecutar_artisan](https://user-images.githubusercontent.com/33810066/227341684-8ac08516-1901-4882-8e66-58bfbbff77d9.png)
+
+-php artisan queue:work
+
+![ejecutar_las_colas](https://user-images.githubusercontent.com/33810066/227341816-a465257e-ca0f-4bbc-817c-9303b00a1147.png)
+
+-npm run server
+
+![ejecutar_servidor](https://user-images.githubusercontent.com/33810066/227342014-b6b74246-1846-4ed9-9487-5e65a7bea838.png)
 
 
 
