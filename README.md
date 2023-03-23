@@ -20,7 +20,7 @@ El codigo puede mejorar de varias maneras este solo es un ejemplo de forma didac
 - Se debe ejecutar como primera instancia en entorno local npm run dev para compilacion del javascript y css de boostrap 5.
 - El servidor esta configurado en el puerto http://127.0.0.1:8000 por tanto se debe ejecutar en entorno local php artisan serve esto es personalizable.
 - Para la ejecucion de eventos se debe mantener ejecutando php artisan queue:work.
-- Por parte de javascript debe ejecutarse con node npm run server para la ejecuin del servidor.
+- Por parte de javascript debe ejecutarse con node npm run server para la ejecucion del servidor.
 
 ##Comandos ejecutables 
 
