@@ -22,7 +22,7 @@ El codigo puede mejorar de varias maneras este solo es un ejemplo de forma didac
 - Para la ejecucion de eventos se debe mantener ejecutando php artisan queue:work.
 - Por parte de javascript debe ejecutarse con node npm run server para la ejecucion del servidor.
 
-##Comandos ejecutables 
+## Comandos ejecutables 
 
 - npm run serve
 
@@ -50,7 +50,7 @@ El codigo puede mejorar de varias maneras este solo es un ejemplo de forma didac
 
 ![chat-ana](https://user-images.githubusercontent.com/33810066/227342704-dfcbc2fd-ebe5-46b6-84ac-1ae71cf3519a.png)
 
-##Creacion de grupos de chat 
+## Creacion de grupos de chat 
 
 -Creacion del chat grupal del usuario de miguel
 
@@ -60,7 +60,7 @@ El codigo puede mejorar de varias maneras este solo es un ejemplo de forma didac
 
 ![crear_grupo_ana](https://user-images.githubusercontent.com/33810066/227343878-e60988fd-a824-46f9-b546-17df138be6e9.png)
 
-##Ejemplo del funcionamiento del chat grupal entre tres usuario Miguel, Ana, Daniel.
+## Ejemplo del funcionamiento del chat grupal entre tres usuario Miguel, Ana, Daniel.
 
 ![chat_grupal_miguel](https://user-images.githubusercontent.com/33810066/227344684-66d72b65-1056-4d5a-b4b3-745f83707f45.png)
 
