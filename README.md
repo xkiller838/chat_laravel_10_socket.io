@@ -38,7 +38,7 @@ El codigo puede mejorar de varias maneras este solo es un ejemplo de forma didac
 
 -npm run server
 
-![ejecutar_servidor](https://user-images.githubusercontent.com/33810066/227342014-b6b74246-1846-4ed9-9487-5e65a7bea838.png)
+![ejecutar_servidor](https://user-images.githubusercontent.com/33810066/227342014-b6b74246-1846-4ed9-9487-5e65a7bea838.png) 
 
 
 
