@@ -11,7 +11,7 @@
 
 Chat sencillo entre laravel y socket.io implementando como base de datos reddis y mysql, boostrap en su version 5 pocas validaciones el ejemplo se usa para ilustrar la manera de realizar un sistema de chat simple sin usar laravel websocket o pucher solo con las tecnologias antes mencionadas de forma gratuita codigo sencillo y simplista.
 
-los datos se almacenan en base de datos pero se esta usando redis para guardar los datos y mostrarlos de forma temporal en la parte de javascrip se esta usando una libreri que permite el intercambio de estos datos desde esa base de datos.
+los datos se almacenan en base de datos pero se esta usando redis para guardar los datos y mostrarlos de forma temporal en la parte de javascrip se esta usando una libreria que permite el intercambio de estos datos desde esa base de datos.
 
 El codigo puede mejorar de varias maneras este solo es un ejemplo de forma didactica de como podria funcionar
 
