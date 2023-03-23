@@ -40,7 +40,33 @@ El codigo puede mejorar de varias maneras este solo es un ejemplo de forma didac
 
 ![ejecutar_servidor](https://user-images.githubusercontent.com/33810066/227342014-b6b74246-1846-4ed9-9487-5e65a7bea838.png) 
 
+## Ejemplo de chat de usuario a usuario
+
+-chat del usuario miguel
+
+![chat-miguel](https://user-images.githubusercontent.com/33810066/227342535-91d2204d-a876-4238-8e2e-e219dccad1a0.png)
+
+-chat del usuario ana
+
+![chat-ana](https://user-images.githubusercontent.com/33810066/227342704-dfcbc2fd-ebe5-46b6-84ac-1ae71cf3519a.png)
+
+##Creacion de grupos de chat 
+
+-Creacion del chat grupal del usuario de miguel
+
+![crear_grupo_miguel](https://user-images.githubusercontent.com/33810066/227343134-c8afd8da-6669-4e0f-bf46-cb690767c5f5.png)
+
+-Creacion del chat grupal del usuario ana
+
+![crear_grupo_ana](https://user-images.githubusercontent.com/33810066/227343878-e60988fd-a824-46f9-b546-17df138be6e9.png)
+
+##Ejemplo del funcionamiento del chat grupal entre tres usuario Miguel, Ana, Daniel.
+
+![chat_grupal_miguel](https://user-images.githubusercontent.com/33810066/227344684-66d72b65-1056-4d5a-b4b3-745f83707f45.png)
 
 
+![chat_grupal_ana](https://user-images.githubusercontent.com/33810066/227344772-68376481-2159-450a-8048-087ff7a1ebef.png)
 
+
+![chat_grupal_daniel](https://user-images.githubusercontent.com/33810066/227344878-7797e232-371c-4f12-bccc-22b6e5ac6a83.png)
 
